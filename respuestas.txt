@@ -1,0 +1,18 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+Por diversos factores que pueden afectar como por ejemplo:
+1. El tipo de compilador
+2. Plataforma de dependencia
+3. Api y librerías
+4. Por el tipo de configuración del sistema
+¿Qué tipo de máquina virtual soporta virtualBox?. 
+1. Windows
+2. Solaris
+3. Linux
+4. Mac os
+¿Qué función cumple el hypervisor en la virtualización?
+1. Crear máquinas virtuales
+2. Asignar recursos
+3. Gestionar Red
+4. Escalabilidad
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+No, por el aislamiento entre máquinas virtuales, y esto es una característica fundamental de la MV
